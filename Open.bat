@@ -1,0 +1,3 @@
+python osint.py
+
+pause
